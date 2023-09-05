@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KamlMukhtar0785
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on apps and websites.
+- 📫 How to reach me kamalmukhtar231@gmail.com
